@@ -542,7 +542,7 @@ a {
 }
 
 .w3-modal {
-    z-index: 3;
+    z-index: 9999;
     display: none;
     padding-top: 100px;
     position: fixed;
