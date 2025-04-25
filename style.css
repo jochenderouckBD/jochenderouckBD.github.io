@@ -11,26 +11,26 @@
 }
 
 .hero.identification {
-    background-image: url('assets/identification_hero.jpg');
+    background-image: url('identification_hero.jpg');
     /* Replace with your image URL */
 }
 
 .hero.value {
-    background-image: url('assets/value_hero.jpg');
+    background-image: url('value_hero.jpg');
     /* Replace with your image URL */
 }
 
 .hero.evaluate {
-    background-image: url('assets/evaluate_hero.jpg');
+    background-image: url('evaluate_hero.jpg');
     background-position-y: -60px !important;
     /* Replace with your image URL */
 }
 .hero.consensus {
-    background-image: url('assets/consensus_hero.jpg');
+    background-image: url('consensus_hero.jpg');
     /* Replace with your image URL */
 }
 .hero.implement {
-    background-image: url('assets/implement_hero.jpg');
+    background-image: url('implement_hero.jpg');
     /* Replace with your image URL */
 }
 
