@@ -1,0 +1,42 @@
+.hero {
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hero.identification {
+    background-image: url('assets/identification_hero.jpg');
+    /* Replace with your image URL */
+}
+
+.hero.value {
+    background-image: url('assets/value_hero.jpg');
+    /* Replace with your image URL */
+}
+
+.hero.evaluate {
+    background-image: url('assets/evaluate_hero.jpg');
+    background-position-y: -60px !important;
+    /* Replace with your image URL */
+}
+.hero.consensus {
+    background-image: url('assets/consensus_hero.jpg');
+    /* Replace with your image URL */
+}
+.hero.implement {
+    background-image: url('assets/implement_hero.jpg');
+    /* Replace with your image URL */
+}
+
+.hero .content {
+    background: rgba(0, 0, 0, 0.5);
+    /* Optional: Adds a dark overlay for better text visibility */
+    padding: 20px;
+    border-radius: 10px;
+}
